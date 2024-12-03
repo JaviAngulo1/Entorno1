@@ -7,5 +7,6 @@
 -  Lista 2
   - Esto es el
 [Enlace de mi github](https://github.com/JaviAngulo1/Entorno1/edit/main/README.md)
+archivo.txt
 
 
