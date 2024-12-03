@@ -5,7 +5,7 @@
 *Esto esta  en cursiva*
 -  lista 1
 -  Lista 2
-  - Sublista
+  - Esto es el
 [Enlace de mi github](https://github.com/JaviAngulo1/Entorno1/edit/main/README.md)
 
 
